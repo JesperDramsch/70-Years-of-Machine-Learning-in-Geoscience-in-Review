@@ -1,5 +1,8 @@
 # 70-Years-of-Machine-Learning-in-Geoscience-in-Review
-Code to recreate the tutorial and figures in the book chapter.
+Code to recreate the tutorial and figures in the [book chapter](https://arxiv.org/abs/2006.13311).
+
+Find the preprint at: https://arxiv.org/abs/2006.13311
+
 ![Decision boundaries](/figures/decision-boundaries.png?raw=true "Decision Boundaries of different Classifiers")
 
 [Book_Examples.ipynb](Book_Examples.ipynb) contains the tutorials and resulting visualizations of the chapter.
