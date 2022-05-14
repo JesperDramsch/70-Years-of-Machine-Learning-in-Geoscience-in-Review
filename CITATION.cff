@@ -1,34 +1,34 @@
 cff-version: '1.2.0'
 message: 'Please cite the following works when using this software.'
-abstract: 'This review gives an overview of the development of machine learning in geoscience. A thorough analysis of the codevelopments of machine learning applications throughout the last 70 years relates the recent enthusiasm for machine learning to developments in geoscience. I explore the shift of kriging toward a mainstream machine learning method and the historic application of neural networks in geoscience, following the general trend of machine learning enthusiasm through the decades. Furthermore, this chapter explores the shift from mathematical fundamentals and knowledge in software development toward skills in model validation, applied statistics, and integrated subject matter expertise. The review is interspersed with code examples to complement the theoretical foundations and illustrate model validation and machine learning explainability for science. The scope of this review includes various shallow machine learning methods, e.g., decision trees, random forests, support-vector machines, and Gaussian processes, as well as, deep neural networks, including feed-forward neural networks, convolutional neural networks, recurrent neural networks, and generative adversarial networks. Regarding geoscience, the review has a bias toward geophysics but aims to strike a balance with geochemistry, geostatistics, and geology, however, excludes remote sensing, as this would exceed the scope. In general, I aim to provide context for the recent enthusiasm surrounding deep learning with respect to research, hardware, and software developments that enable successful application of shallow and deep machine learning in all disciplines of Earth science.'
+abstract: 'Code to recreate the tutorial and figures in the book chapter.'
 authors:
 - family-names: 'Dramsch'
   given-names: 'Jesper Sören'
   orcid: '0000-0001-8273-905X'
-doi: 'https://doi.org/10.1016/bs.agph.2020.08.002'
 identifiers:
-  - type: 'doi'
-    value: 'https://doi.org/10.1016/bs.agph.2020.08.002'
   - type: 'url'
-    value: 'https://www.sciencedirect.com/science/article/pii/S0065268720300054'
-  - type: 'other'
-    value: 'urn:issn:0065-2687'
-title: 'Chapter One - 70 years of machine learning in geoscience in review'
-url: 'https://www.sciencedirect.com/science/article/pii/S0065268720300054'
-type: 'book-chapter'
+    value: 'https://github.com/JesperDramsch/70-Years-of-Machine-Learning-in-Geoscience-in-Review'
+title: 'JesperDramsch/70-Years-of-Machine-Learning-in-Geoscience-in-Review'
+url: 'https://github.com/JesperDramsch/70-Years-of-Machine-Learning-in-Geoscience-in-Review'
+abbreviation: '70-Years-of-Machine-Learning-in-Geoscience-in-Review'
+date-published: 2020-07-17
+year: 2020
+month: 7
+type: 'software'
 preferred-citation:
-  abstract: 'Code to recreate the tutorial and figures in the book chapter.'
+  abstract: 'This review gives an overview of the development of machine learning in geoscience. A thorough analysis of the codevelopments of machine learning applications throughout the last 70 years relates the recent enthusiasm for machine learning to developments in geoscience. I explore the shift of kriging toward a mainstream machine learning method and the historic application of neural networks in geoscience, following the general trend of machine learning enthusiasm through the decades. Furthermore, this chapter explores the shift from mathematical fundamentals and knowledge in software development toward skills in model validation, applied statistics, and integrated subject matter expertise. The review is interspersed with code examples to complement the theoretical foundations and illustrate model validation and machine learning explainability for science. The scope of this review includes various shallow machine learning methods, e.g., decision trees, random forests, support-vector machines, and Gaussian processes, as well as, deep neural networks, including feed-forward neural networks, convolutional neural networks, recurrent neural networks, and generative adversarial networks. Regarding geoscience, the review has a bias toward geophysics but aims to strike a balance with geochemistry, geostatistics, and geology, however, excludes remote sensing, as this would exceed the scope. In general, I aim to provide context for the recent enthusiasm surrounding deep learning with respect to research, hardware, and software developments that enable successful application of shallow and deep machine learning in all disciplines of Earth science.'
   authors:
   - family-names: 'Dramsch'
     given-names: 'Jesper Sören'
     orcid: '0000-0001-8273-905X'
+  doi: 'https://doi.org/10.1016/bs.agph.2020.08.002'
   identifiers:
+    - type: 'doi'
+      value: 'https://doi.org/10.1016/bs.agph.2020.08.002'
     - type: 'url'
-      value: 'https://github.com/JesperDramsch/70-Years-of-Machine-Learning-in-Geoscience-in-Review'
-  title: 'JesperDramsch/70-Years-of-Machine-Learning-in-Geoscience-in-Review'
-  url: 'https://github.com/JesperDramsch/70-Years-of-Machine-Learning-in-Geoscience-in-Review'
-  abbreviation: '70-Years-of-Machine-Learning-in-Geoscience-in-Review'
-  date-published: 2020-07-17
-  year: 2020
-  month: 7
-  type: 'software'
+      value: 'https://www.sciencedirect.com/science/article/pii/S0065268720300054'
+    - type: 'other'
+      value: 'urn:issn:0065-2687'
+  title: 'Chapter One - 70 years of machine learning in geoscience in review'
+  url: 'https://www.sciencedirect.com/science/article/pii/S0065268720300054'
+  type: 'book-chapter'
